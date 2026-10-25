@@ -1,0 +1,1 @@
+# chernivtsi-open-data-hackathon-website-mock
